@@ -1,6 +1,6 @@
-﻿token=NTQzODU1MDU0Nzc2NTY1NzYw.XOs-6g.tTDxUjFJ2ay2t-FOaLOpgdmXVdc
-owner=294075671020568578
+﻿token=NTgzMDU4OTk2Mjk0OTc1NDk3.XO22PQ.FTcF5ormnNx42Wn-89PcHeM8J1A
+owner=526385469903077376
 prefix=8
-game=.❦.♆.
+game=7MoDy
 stayinchannel=true
 songinstatus=false
