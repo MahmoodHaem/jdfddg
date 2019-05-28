@@ -1,0 +1,6 @@
+﻿token=NTQzODU1MDU0Nzc2NTY1NzYw.XOs-6g.tTDxUjFJ2ay2t-FOaLOpgdmXVdc
+owner=294075671020568578
+prefix=8
+game=.❦.♆.
+stayinchannel=true
+songinstatus=false
