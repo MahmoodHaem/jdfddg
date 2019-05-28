@@ -1,6 +1,6 @@
 ﻿token=NTgzMDU4OTk2Mjk0OTc1NDk3.XO22PQ.FTcF5ormnNx42Wn-89PcHeM8J1A
 owner=526385469903077376
-prefix=8
+prefix=7
 game=7MoDy
 stayinchannel=true
 songinstatus=false
