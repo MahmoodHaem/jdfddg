@@ -1,4 +1,4 @@
-﻿token=NTgzMDU4OTk2Mjk0OTc1NDk3.XO22PQ.FTcF5ormnNx42Wn-89PcHeM8J1A
+﻿token=NTgzMDU4OTk2Mjk0OTc1NDk3.XO24qw.bmKmMKQnejzGS6MAvbBWUhzytn4
 owner=526385469903077376
 prefix=7
 game=7MoDy
